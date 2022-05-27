@@ -63,14 +63,14 @@ If you'd like to contribute, please fork the repository, add/remove or just chan
 
  -> Updates and more
 
-- [ ] Two supported compilers for the Text Editor (JOVS & CSC)
-- [ ] Application Build
-- [ ] Console Apps
-- [ ] Win Apps
-- [ ] App Extensions Development
-- [ ] App Icon customization
-- [ ] Tutorials for JovanaScript
-- [ ] Script saving & sharing
-- [ ] Git support
+- [x] Two supported compilers for the Text Editor (JOVS & CSC)
+- [x] Application Build
+- [x] Console Apps
+- [x] Win Apps
+- [x] App Extensions Development
+- [x] App Icon customization
+- [x] Tutorials for JovanaScript
+- [x] Script saving & sharing
+- [x] Git support
 
 That's it for now!
