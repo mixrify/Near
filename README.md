@@ -6,7 +6,7 @@ JovanaScript was first developed at **5/24/2022**, aiming to create another fami
 
 ## How it works
 
-<img src="https://media.discordapp.net/attachments/916226674071339010/979739362851975188/unknown.png" alt="#">
+<img src="https://media.discordapp.net/attachments/916226674071339010/979798207242575902/unknown.png" alt="#">
 
 When writing an application with the text editor, you are able to use JovanaScript **and C#**, considering we also use the CSC compiler. However, C# is not entirely supported on the Text Editor nor recommended unless needed. If you're curious of how JovanaScript works, check out the [JovanaScript Documentation](/#).
 
