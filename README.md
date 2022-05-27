@@ -1,6 +1,6 @@
 # <img src="https://media.discordapp.net/attachments/916226674071339010/978708607426244608/JovanaScriptBanner.png" width="300" height="100" alt="#">
 
-JovanaScript, a modern object-oriented programming language that uses the CSC & JOVS compilers and embeds into the JovanaScript Text Editor. It currently supports ConsoleApps, WinApps and Application Extension (DLL) Creation. 
+JovanaScript, a modern object-oriented programming language that uses the CSC & JOVS compilers and embeds into the JovanaScript Text Editor. It currently supports **ConsoleApps**, **WinApps** and **Application Extension (DLL)** Creation. 
 
 JovanaScript was first developed at **5/24/2022**, aiming to create another family language of **C** which compiles into C# code using the JOVS & CSC compilers.
 
