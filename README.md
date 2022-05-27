@@ -63,7 +63,8 @@ If you'd like to contribute, please fork the repository, add/remove or just chan
 
 <img src="https://media.discordapp.net/attachments/940575794110038017/979729931657416754/unknown.png?width=918&height=473" alt="#">
 
- -> Updates and more
+ # Updates and more
+ Here are the updates of the language & text editor.
 
 - [x] Two supported compilers for the Text Editor (JOVS & CSC)
 - [x] Application Build
@@ -74,5 +75,33 @@ If you'd like to contribute, please fork the repository, add/remove or just chan
 - [x] Tutorials for JovanaScript
 - [x] Script saving & sharing
 - [x] Git support
+- [x] Advnaced definitions & Arrays support
 
-That's it for now!
+# Support us
+
+Want to help us out? Check out our [ko-fi page](https://ko-fi.com/JovanaScript)! We currently support direct payments only, we do not support crypto payments yet so this is the only option as of now.
+
+Thank you for your support ♥
+
+# Licensing
+
+JovanaScript (the language source) is licensed with [**GNU Lesser General Public License v2.1**](https://github.com/Pronner/JovanaScript/blob/main/LICENSE), while the name is licensed with a **Trademark**.
+
+-> Source permissions:
+
+- [x] Commercial use [✔] **[NOT RECOMMENDED]**
+- [x] Modification [✔]
+- [x] Distribution [✔]
+- [x] Private use [✔]
+- [ ] Liability [❌]
+- [ ] Warranty [❌]
+
+-> Source conditions:
+
+- [x] License and copyright notice **[MUST]**
+- [x] Disclose source **[MUST]**
+- [x] State changes **[MUST]**
+- [x] Same license (library) **[MUST]**
+
+If you do not abide to the conditions or if you cross the permissions allowed you will face consequences privately once caught.
+Thank you.
