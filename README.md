@@ -62,6 +62,7 @@ If you'd like to contribute, please fork the repository, add/remove or just chan
 ## Sneak peeks of the Text Editor & Language
 
 <img src="https://media.discordapp.net/attachments/940575794110038017/979729931657416754/unknown.png?width=918&height=473" alt="#">
+<img src="https://images-ext-1.discordapp.net/external/7unP7-T1Uk0996Fx26v7WEoRx0fssQejpuaGmehsypg/%3Fwidth%3D842%26height%3D473/https/media.discordapp.net/attachments/975412170735104013/979793706766970900/unknown.png" alt="#">
 
  # Updates and more
  Here are the updates of the language & text editor.
