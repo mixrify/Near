@@ -4,7 +4,7 @@
 
 Document published on: **5/27/2022** - takes a few seconds to a minute to read.
 
-On arrays, you are able to store multiple variables on a structure. There are multiple types that can be used for arrays such as:
+On arrays, you are able to store multiple variables on a structure, there are multiple types that can be used for arrays such as:
 
 - [x] `object`
 - [x] `string`
