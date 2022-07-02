@@ -1,4 +1,4 @@
-# <img src="https://media.discordapp.net/attachments/916226674071339010/978708607426244608/JovanaScriptBanner.png" width="300" height="100" alt="#">
+# <img src="https://media.discordapp.net/attachments/980517878220615710/992872212786860143/Near.png?width=473&height=473" width="300" height="300" alt="#">
 
 Near, a modern object-oriented programming language that uses the CSC & JOVS compilers and embeds into the Near Text Editor. It currently supports **ConsoleApps**, **WinApps** and **Application Extension (DLL)** Creation. 
 
@@ -6,7 +6,7 @@ Near was first developed at **5/24/2022**, aiming to create another family langu
 
 ## How it works
 
-<img src="https://media.discordapp.net/attachments/916226674071339010/979798207242575902/unknown.png" alt="#">
+<img src="https://media.discordapp.net/attachments/980517878220615710/992873450521772062/unknown.png" alt="#">
 
 When writing an application with the text editor, you are able to use Near **and C#**, considering we also use the CSC compiler. However, C# is not entirely supported on the Text Editor nor recommended unless needed. If you're curious of how Near works, check out the [Near Documentation](/#).
 
@@ -61,8 +61,8 @@ If you'd like to contribute, please fork the repository, add/remove or just chan
 
 ## Sneak peeks of the Text Editor & Language
 
-<img src="https://media.discordapp.net/attachments/940575794110038017/979729931657416754/unknown.png?width=918&height=473" alt="#">
-<img src="https://images-ext-1.discordapp.net/external/7unP7-T1Uk0996Fx26v7WEoRx0fssQejpuaGmehsypg/%3Fwidth%3D842%26height%3D473/https/media.discordapp.net/attachments/975412170735104013/979793706766970900/unknown.png" alt="#">
+<img src="https://media.discordapp.net/attachments/980517878220615710/992874546740875294/unknown.png?width=813&height=473" alt="#">
+<img src="https://media.discordapp.net/attachments/980517878220615710/992874967534419998/unknown.png?width=754&height=473" alt="#">
 
  # Updates and more
  Here are the updates of the language & text editor.
