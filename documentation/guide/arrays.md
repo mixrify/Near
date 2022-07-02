@@ -1,5 +1,5 @@
-### <img src="https://media.discordapp.net/attachments/916226674071339010/978708607426244608/JovanaScriptBanner.png" width="300" height="100" alt="#">
-# Arrays on JovanaScript 
+### <img src="https://media.discordapp.net/attachments/980517878220615710/992872212786860143/Near.png?width=473&height=473" width="300" height="100" alt="#">
+# Arrays on Near
 
 
 Document published on: **5/27/2022** - takes a few seconds to a minute to read.
