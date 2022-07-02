@@ -1,4 +1,4 @@
-### <img src="https://media.discordapp.net/attachments/980517878220615710/992872212786860143/Near.png?width=473&height=473" width="300" height="100" alt="#">
+### <img src="https://media.discordapp.net/attachments/980517878220615710/992872212786860143/Near.png?width=473&height=473" width="300" height="300" alt="#">
 # Arrays on Near
 
 
