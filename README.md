@@ -1,4 +1,4 @@
-# <img src="https://media.discordapp.net/attachments/980517878220615710/992872212786860143/Near.png?width=473&height=473" width="300" height="300" alt="#">
+# <img src="https://media.discordapp.net/attachments/916226674071339010/1006652155790372884/Near_2.png?width=473&height=473" width="200" height="200" alt="#">
 
 Near, a modern object-oriented programming language that uses the CSC & JOVS compilers and embeds into the Near Text Editor. It currently supports **ConsoleApps**, **WinApps** and **Application Extension (DLL)** Creation. 
 
