@@ -19,14 +19,14 @@ Obfuscating a Near application is easy, as it is possible to do it **inside the 
 ~ **Obfuscation code example**
 
 ```csharp
-import (Packages.reg);
-import (Packages.near.obf);
+#import Packages.reg;
+#import Packages.near.obf;
 
 namespace Obfuscator {
     
     class veryCoolObfuscator {
         
-        static void Main(string[] arguments) {
+        static -> void Main(string[] arguments) {
             
             
             printN("Obfuscated application open!");
@@ -35,7 +35,7 @@ namespace Obfuscator {
             
         }
         
-        protected visoFunc void Obfuscate { // This part of the code will not be visible after decompiling since it has used the visoFunc method to automatically run and get removed.
+        protected visoFunc -> void Obfuscate { // This part of the code will not be visible after decompiling since it has used the visoFunc method to automatically run and get removed.
             
             foreach (Option in this.ObfuscatorOptions) {
                 
@@ -75,7 +75,12 @@ If you'd like to contribute, please fork the repository, add/remove or just chan
 - [x] App Icon customization
 - [x] Tutorials for JovanaScript
 - [x] Script saving & sharing
-- [x] Git support
+- [] Git support
+- [x] Controls (Undo, Redo, Run Application, etc)
+- [x] Error Indicator
+- [x] Project Settings
+- [x] Ability to open files with Near (ex. opening a .near file with Nearify IDE)
+- [x] Support of multiple files (BETA, may be buggy)
 - [x] Advnaced definitions & Arrays support
 
 # Support us
