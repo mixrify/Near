@@ -75,7 +75,7 @@ If you'd like to contribute, please fork the repository, add/remove or just chan
 - [x] App Icon customization
 - [x] Tutorials for JovanaScript
 - [x] Script saving & sharing
-- [] Git support
+- [ ] Git support
 - [x] Controls (Undo, Redo, Run Application, etc)
 - [x] Error Indicator
 - [x] Project Settings
