@@ -59,13 +59,13 @@ Using the code above tells the JOVS compiler to remove the [visoFunc](/#) void a
 Current contributors: Pronner
 If you'd like to contribute, please fork the repository, add/remove or just change whatever you think should be changed and then submit a pull request.
 
-## Sneak peeks of the Text Editor & Language
+## Sneak peeks of the IDE & Language
 
-<img src="https://media.discordapp.net/attachments/980517878220615710/992874546740875294/unknown.png?width=813&height=473" alt="#">
-<img src="https://media.discordapp.net/attachments/980517878220615710/992874967534419998/unknown.png?width=754&height=473" alt="#">
+<img src="https://media.discordapp.net/attachments/916226674071339010/1012664192177803284/unknown.png?width=888&height=473" alt="#">
+<img src="https://media.discordapp.net/attachments/916226674071339010/1012664316123697222/unknown.png?width=890&height=473" alt="#">
 
  # Updates and more
- Here are the updates of the language & text editor.
+ Here are the updates of the language & IDE.
 
 - [x] Two supported compilers for the Text Editor (JOVS & CSC)
 - [x] Application Build
