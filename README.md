@@ -1,6 +1,6 @@
 # <img src="https://media.discordapp.net/attachments/916226674071339010/1006652155790372884/Near_2.png?width=473&height=473" width="200" height="200" alt="#">
 
-Near, a modern object-oriented programming language that uses the CSC & JOVS compilers and embeds into the Near Text Editor. It currently supports **ConsoleApps**, **WinApps** and **Application Extension (DLL)** Creation. 
+Near, a modern object-oriented programming language that uses the CSC & JOVS compilers and embeds into the Near IDE. It currently supports **ConsoleApps**, **WinApps** and **Application Extension (DLL)** Creation. 
 
 Near was first developed at **5/24/2022**, aiming to create another family language of **C** which compiles into C# code using the JOVS & CSC compilers.
 
@@ -8,7 +8,7 @@ Near was first developed at **5/24/2022**, aiming to create another family langu
 
 <img src="https://media.discordapp.net/attachments/980517878220615710/992873450521772062/unknown.png" alt="#">
 
-When writing an application with the text editor, you are able to use Near **and C#**, considering we also use the CSC compiler. However, C# is not entirely supported on the Text Editor nor recommended unless needed. If you're curious of how Near works, check out the [Near Documentation](/#).
+When writing an application with the text editor, you are able to use Near **and C#**, considering we also use the CSC compiler. However, C# is not entirely supported on the IDE nor recommended unless needed. If you're curious of how Near works, check out the [Near Documentation](/#).
 
 When decompiling a Near-written application, the source code will appear with the **C# language**—To avoid that, the only way is **obfuscating** your application, which is possible **on Near**.
 
@@ -67,13 +67,13 @@ If you'd like to contribute, please fork the repository, add/remove or just chan
  # Updates and more
  Here are the updates of the language & IDE.
 
-- [x] Two supported compilers for the Text Editor (JOVS & CSC)
+- [x] Two supported compilers for the IDE (JOVS & CSC)
 - [x] Application Build
 - [x] Console Apps
 - [x] Win Apps
 - [x] App Extensions Development
 - [x] App Icon customization
-- [x] Tutorials for JovanaScript
+- [x] Tutorials for Near
 - [x] Script saving & sharing
 - [ ] Git support
 - [x] Controls (Undo, Redo, Run Application, etc)
