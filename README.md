@@ -8,7 +8,7 @@ Near was first developed at **5/24/2022**, aiming to create another family langu
 
 <img src="https://media.discordapp.net/attachments/980517878220615710/992873450521772062/unknown.png" alt="#">
 
-When writing an application with the text editor, you are able to use Near **and C#**, considering we also use the CSC compiler. However, C# is not entirely supported on the IDE nor recommended unless needed. If you're curious of how Near works, check out the [Near Documentation](/#).
+When writing an application with the text editor, you are able to use Near **and C#**, considering we also use the CSC compiler. However, C# is not entirely supported on the IDE nor recommended unless needed. If you're curious of how Near works, check out the [Near Documentation](https://github.com/mixrify/Near/tree/main/documentation/guide).
 
 When decompiling a Near-written application, the source code will appear with the **C# language**—To avoid that, the only way is **obfuscating** your application, which is possible **on Near**.
 
