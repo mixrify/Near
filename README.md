@@ -19,14 +19,14 @@ Obfuscating a Near application is easy, as it is possible to do it **inside the 
 ~ **Obfuscation code example**
 
 ```csharp
-#import Packages.reg;
-#import Packages.near.obf;
+import Packages.reg;
+import Packages.near.obf;
 
-namespace Obfuscator {
+context Obfuscator {
     
     class veryCoolObfuscator {
         
-        static -> void Main(string[] arguments) {
+        static func Main(string[] arguments) {
             
             
             printN("Obfuscated application open!");
@@ -35,17 +35,17 @@ namespace Obfuscator {
             
         }
         
-        protected visoFunc -> void Obfuscate { // This part of the code will not be visible after decompiling since it has used the visoFunc method to automatically run and get removed.
-            
-            foreach (Option in this.ObfuscatorOptions) {
-                
-                var myObf = new NearObfuscator("stringObf"); // Select the Obfuscation Methods (e.g. stringObf, metaObf, relocator, config4, garbage, antidebug, dnspykill)
-                
-                myObf.Obfuscate(this);
-                
-                
-            }
-        }
+        /* protected visoFunc func Obfuscate { // This part of the code will not be visible after decompiling since it has used the visoFunc method to automatically run and get removed.
+        /*    
+        /*    foreach (Option in this.ObfuscatorOptions) {
+        /*        
+        /*        var myObf = new NearObfuscator("stringObf"); // Select the Obfuscation Methods (e.g. stringObf, metaObf, relocator, config4, garbage, antidebug, dnspykill)
+        /*        
+        /*        myObf.Obfuscate(this);
+        /*        
+        /*        
+        /*    }
+        /*}
         
     }
     
