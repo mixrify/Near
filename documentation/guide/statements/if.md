@@ -9,11 +9,11 @@ With if statements, you are able to decide what happens if something is true or 
 
 ```csharp
 
-import (Packages.reg);
+import Packages.reg;
 
 bool NearIsCool = true;
 
-public static void Main() {
+public static func Main() {
     
     if (NearIsCool == true) {
         
