@@ -16,9 +16,9 @@ On arrays, you are able to store multiple variables on a structure, there are mu
 
 ```csharp
 
-import (Packages.reg);
+import Packages.reg;
 
-namespace ArraysNamespace {
+context ArraysNamespace {
     
     class ArrayClass {
         
@@ -38,16 +38,16 @@ Arrays are very useful for when needing to have multiple variables of the same t
 
 ```csharp
 
-import (Packages.reg);
+import Packages.reg;
 
-namespace ArraysNamespace {
+context ArraysNamespace {
     
     class ArrayClass {
         
         int[] veryCoolIntegers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
         int numberLength = veryCoolIntegers.Length;
         
-        static void Main(string[] arguments) {
+        static func Main(string[] arguments) {
             
             
             printJ($"Length of 'veryCoolIntegers': {numberLength}");
