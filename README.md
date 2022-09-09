@@ -26,16 +26,7 @@ context Obfuscator {
     
     class veryCoolObfuscator {
         
-        static func Main(string[] arguments) {
-            
-            
-            printN("Obfuscated application open!");
-            printN.PauseAtKey();
-            
-            
-        }
-        
-        /* protected visoFunc func Obfuscate { // This part of the code will not be visible after decompiling since it has used the visoFunc method to automatically run and get removed.
+        /* visoObf func Obfuscate { // This part of the code will not be visible after decompiling since it has used the visoFunc method to automatically run and get removed.
         /*    
         /*    foreach (Option in this.ObfuscatorOptions) {
         /*        
